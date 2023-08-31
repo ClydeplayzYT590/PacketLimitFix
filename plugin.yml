@@ -2,5 +2,5 @@
 name: PacketLimitFix
 version: 1.0
 main: ethaniccc\PacketLimitFix\Main
-api: 4.0.0
+api: 5.0.0
 ...
